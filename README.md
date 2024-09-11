@@ -14,6 +14,8 @@ the output will be: `cleaned_emails.js` and `still_invalid_emails.js`
 
 Thers is also a script `providers.js` which will output a CSV file with the providers and count of their usage. This will help you catch common mistakes like `@gamil` instead of `gmail.com`
 
-___
+---
+
+## Credit: [Claude.ai](https://claude.ai/)
 
 👋 have a nice day
